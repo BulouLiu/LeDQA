@@ -1,0 +1,70 @@
+{
+    "担保情况 - Guarantee situations": {
+        "是否有担保？": "Is there a guarantee?",
+        "是否由公司担保？": "Is it guaranteed by the company?",
+        "是否由个人担保？": "Is it guaranteed by an individual?",
+        "担保是否经过公司内部决议？": "Has the guarantee been approved by internal resolution of the company?",
+        "是否对外担保？": "Is it guaranteed externally?",
+        "是否公司对外分支结构？": "Is it a branch structure of the company?",
+        "是否有多个责任人？": "Are there multiple responsible parties?",
+        "担保人是否是夫妻、法定代表人及负责人、独资企业？": "Is the guarantor a spouse, legal representative or person in charge, or a sole proprietorship?",
+        "是否存在法定代表人以自己名义签订合同的情况？": "Is there a situation where the legal representative signs the contract in his own name?"
+    },
+    "借款发放与还款 - Loan disbursement and repayment": {
+        "借款是否交付？": "Is the loan disbursed?",
+        "是否已经还款？": "Has the repayment been made?",
+        "已经还款的部分，是本金还是利息？": "Is the repayment part principal or interest?",
+        "是否约定借期利息？": "Is the term interest rate agreed upon?",
+        "是否约定逾期利率？": "Is the default interest rate agreed upon?",
+        "是否约定违约金？": "Is the penalty for breach of contract agreed upon?"
+    },
+    "抵押或担保 - Collateral or security": {
+        "是否存在物品担保或物保？": "Is there collateral or security for the loan?",
+        "物品担保或物保是否登记？": "Is the collateral or security registered?",
+        "物品担保或物保是否交付？": "Is the collateral or security delivered?",
+        "物品担保或物保是否随主债权一并处理？": "Is the collateral or security dealt with together with the main debt?"
+    },
+    "借款合同与证据 - Loan contracts and evidence": {
+        "利息是否超过4倍LPR？": "Is the interest rate more than 4 times the LPR?",
+        "是否有借条？": "Is there a promissory note?",
+        "除借条外，是否提供其他借贷证据？": "Are there other loan evidence provided?"
+    },
+    "合同有效性 - Contract validity": {
+        "被告辩称是否属于其他法律关系？": "Does the defendant argue that it belongs to other legal relationships?",
+        "是否约定保本付息？": "Is the principal and interest protected as agreed?",
+        "是否对借条形成的原因进行了说明？": "Is the reason for the promissory note explained?",
+        "夫妻另一方是否签字？": "Did the other spouse sign?",
+        "是否签署抵押合同？": "Is a mortgage contract signed?",
+        "是否办理抵押登记？": "Is the mortgage registration processed?",
+        "借款合同是否有效？": "Is the loan contract valid?",
+        "原告是否对合同无效承担责任？": "Is the plaintiff responsible for the invalidity of the contract?",
+        "被告是否对合同无效承担责任？": "Is the defendant responsible for the invalidity of the contract?",
+        "原告与第三人是否存在其他法律关系？": "Are there other legal relationships between the plaintiff and a third party?",
+        "被告是否应对合同无效承担责任？": "Should the defendant be responsible for the invalidity of the contract?"
+    },
+    "夫妻和经济关系 - Marital and economic relationships": {
+        "借款是否发生在婚姻关系存续期间？": "Did the loan occur during the marriage?",
+        "借款是否用于夫妻共同生活、生产、经营？": "Was the loan used for the common life, production, or operation of the spouses?",
+        "是否具备共通举债的合意及共同使用的事实？": "Is there a common agreement to borrow and shared usage?"
+    },
+    "资金来源和律师费 - Funding sources and legal fees": {
+        "资金来源是否为金融机构贷款？": "Is the funding source from financial institution loans?",
+        "是否约定律师费由谁承担？": "Who bears the legal fees as agreed?"
+    },
+    "诉讼程序和纠纷 - Litigation procedures and disputes": {
+        "是否进行结算？": "Is there a settlement?",
+        "是否对诉讼时效有争议？": "Is the statute of limitations in dispute?",
+        "是否主张连带还款？": "Is joint repayment claimed?",
+        "是否依据公司人格混同？": "Is there confusion between corporate entities?",
+        "是否查明公司之间的股东、业务、应收款等方面的情况？": "Is the situation regarding shareholders, business, and receivables between companies clarified?"
+    },
+    "共同债务和共同使用 - Joint debt and shared usage": {
+        "是否存在其他见证人？": "Are there other witnesses?",
+        "是否主张债权？": "Is the debt claimed?"
+    },
+    "公司借贷和身份混同 - Company borrowing and identity confusion": {
+        "是否在本市近年内存在多起借贷纠纷？": "Are there multiple loan disputes in this city in recent years?",
+        "是否有现金出借能力？": "Is there the ability to lend cash?",
+        "现金出借是否符合原告的出借惯例？": "Does lending cash align with the plaintiff's lending practices?"
+    }
+}
