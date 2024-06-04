@@ -7,7 +7,7 @@ LeDQA is the first Chinese legal case document-based question answering dataset 
 
 ### Question Schema
 The question schema can be found in `QuestionSchema.json`. Here are 48 questions from 10 categories. We will take one category as an example.
-``
+```json
 {
     "担保情况 - Guarantee situations": {
         "是否有担保？": "Is there a guarantee?",
@@ -21,4 +21,4 @@ The question schema can be found in `QuestionSchema.json`. Here are 48 questions
         "是否存在法定代表人以自己名义签订合同的情况？": "Is there a situation where the legal representative signs the contract in his own name?"
     }
 }
-``
+```
