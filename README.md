@@ -30,3 +30,58 @@ The legal case documents can be found in `CaseDocs.json`. Each piece of data con
     "3565": "【一审法院查明】一审法院认定事实：魏欢欢、张磊系夫妻关系。周琦为融丰投资中心的执行事务合伙人。2013年12月24日，张磊通过银行汇款方式向融丰投资中心转账5万元，该款用途标注为理财产品。2014年1月15日，魏欢欢向融丰投资中心转账5万元，该款用途标注为理财。2016年11月18日，周琦向魏欢欢、张磊出具借条一张。内容为：今有周琦向魏欢欢、张磊各借款五万元共计十万元整。上述欠款约定于2017年12月12日前还清。借款：周琦。此后周琦未向魏欢欢、张磊还款，魏欢欢、张磊即提起诉讼。一审庭审中，周琦否认上述款项为周琦个人借款。同时，双方一致认可借条内容为魏欢欢、张磊书写，周琦签署了“借款：周琦”的内容。同时，魏欢欢、张磊否认该款是对融丰投资中心的理财款。【本院查明】二审中，当事人未提交新证据。本院对一审法院查明的事实予以确认。"
 }
 ```
+
+### Answers
+We annotate the answers for all the case-question pairs and save them in the folder `answer`. And for each document, we save the answers for it in the file `caseID.json`. We show the `answer/3402.json` as the example.
+```json
+[
+{"question": 1, "answer": "不知道"},
+{"question": 2, "answer": "不知道"},
+{"question": 3, "answer": "不知道"},
+{"question": 4, "answer": "不知道"},
+{"question": 5, "answer": "不知道"},
+{"question": 6, "answer": "不知道"},
+{"question": 7, "answer": "不知道"},
+{"question": 8, "answer": "不知道"},
+{"question": 9, "answer": "不知道"},
+{"question": 10, "answer": "是"},
+{"question": 11, "answer": "是"},
+{"question": 12, "answer": "利息"},
+{"question": 13, "answer": "是"},
+{"question": 14, "answer": "不知道"},
+{"question": 15, "answer": "不知道"},
+{"question": 16, "answer": "不知道"},
+{"question": 17, "answer": "不知道"},
+{"question": 18, "answer": "不知道"},
+{"question": 19, "answer": "不知道"},
+{"question": 20, "answer": "不知道"},
+{"question": 21, "answer": "是"},
+{"question": 22, "answer": "不知道"},
+{"question": 23, "answer": "不知道"},
+{"question": 24, "answer": "不知道"},
+{"question": 25, "answer": "不知道"},
+{"question": 26, "answer": "不知道"},
+{"question": 27, "answer": "不知道"},
+{"question": 28, "answer": "不知道"},
+{"question": 29, "answer": "不知道"},
+{"question": 30, "answer": "是"},
+{"question": 31, "answer": "是"},
+{"question": 32, "answer": "不知道"},
+{"question": 33, "answer": "不知道"},
+{"question": 34, "answer": "是"},
+{"question": 35, "answer": "不知道"},
+{"question": 36, "answer": "不知道"},
+{"question": 37, "answer": "不知道"},
+{"question": 38, "answer": "不知道"},
+{"question": 39, "answer": "不知道"},
+{"question": 40, "answer": "不知道"},
+{"question": 41, "answer": "不知道"},
+{"question": 42, "answer": "不知道"},
+{"question": 43, "answer": "不知道"},
+{"question": 44, "answer": "不知道"},
+{"question": 45, "answer": "不知道"},
+{"question": 46, "answer": "不知道"},
+{"question": 47, "answer": "不知道"},
+{"question": 48, "answer": "不知道"}
+]
+```
