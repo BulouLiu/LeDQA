@@ -180,3 +180,13 @@ We save the sentence-level relevance annotations in the folder `Relevance Annota
     "本院认证认为，因亿隅公司对孙灵敏提交证据的真实性予以认可，故本院对上述证据的真实性予以确认，但其证明内容，则根据全案证据予以综合分析；": 0
 }
 ```
+
+
+### Prompts
+We show the prompts to answer the questions based on the background information.
+```
+messages=[
+        {"role": "system","content": "You are a helpful assistant."},
+        {"role": "user","content": f"根据{corpus}内容回答{query}的48个问题。\n回答要求：回答：“是”或“否”或“不知道”。每个回答占一行" },
+        ]
+```
